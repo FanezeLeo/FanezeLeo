@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Leonardo Faneze 👋
 
-<!--
-**FanezeLeo/FanezeLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante da Estácio no curso Análise e Desenvolvimento de Sistemas e tenho experiências com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- Cypress e Selenium
+
+---
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/FanezeLeo
+- LinkedIn: https://www.linkedin.com/in/leonardo-faneze-camboim/
+
+---
+
+⭐ Sempre buscando aprender e me desenvolver profissionalmente e pessoalmetne.
