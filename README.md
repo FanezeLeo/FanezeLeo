@@ -4,9 +4,9 @@
 
 Sou estudante da Estácio no curso Análise e Desenvolvimento de Sistemas e tenho experiências com:
 
-- Java
-- Python
-- Cypress e Selenium
+- Desenvolvimento Back-end
+- Sistemas de Banco de Dados
+- Testes automatizados de softwares
 
 ---
 
